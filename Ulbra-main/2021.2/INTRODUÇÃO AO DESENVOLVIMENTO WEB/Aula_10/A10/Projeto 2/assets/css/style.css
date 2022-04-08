@@ -1,0 +1,102 @@
+*{
+    margin: 0 auto;
+}
+
+header{
+    font-size: 18px;
+    background-color: rgb(18, 134, 201);
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+}
+
+.imgPhoto{
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 50%;
+}
+
+
+nav{
+    text-align: right;
+    padding: 10px 50px 10px 10px;
+    background-color: rgb(224, 224, 224);
+    color: darkgrey;
+}
+
+nav ul li{
+    color: darkgrey;
+    display: inline;
+}
+
+nav ul li a{
+    color: darkgrey;
+}
+
+
+section{
+    background-color: rgb(84, 212, 180);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+section p{
+    font-size: 22px;
+
+}
+
+article{
+    font-size: 18px;
+    text-align: center;
+    background-color: darkgrey;
+    color: #fff;
+    padding: 20px;
+}
+
+#article2{
+    font-size: 18px;
+    padding: 20px;
+    color: black;
+    background-color: #fff;
+    text-align: center;
+}
+
+
+.imgtrab{
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+
+}
+
+
+h4{
+    float: left;
+}
+
+.row{
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    padding: 50px;
+    background-color: grey;
+    color: #fff;
+}
+
+.text{
+    position: absolute;
+    margin-left: 630px;
+}
+
+.text3{
+    position: absolute; 
+    top: 613px; 
+    left: 0; 
+    width: 130%; 
+}

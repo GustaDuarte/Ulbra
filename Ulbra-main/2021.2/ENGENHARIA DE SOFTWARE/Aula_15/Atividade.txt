@@ -1,0 +1,1 @@
+Dos dois diagramas da ap2 corrigidos em sala de aula, escolha 2 casos de uso e desenvolva as users stories e para cada user story faça 3 cenários de uso utilizando a técnica de BDD.

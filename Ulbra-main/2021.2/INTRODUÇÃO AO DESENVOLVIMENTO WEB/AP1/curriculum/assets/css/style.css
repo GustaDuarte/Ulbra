@@ -1,0 +1,116 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.page{
+    width: 60%;
+    border: solid 1px;
+    margin: 0 auto;
+    padding: 30px; 
+}
+
+.row{
+    clear: both;
+    overflow: auto;
+}
+
+/* Titulo principal*/
+h1{
+    background-color: rgb(59, 113, 158);
+    color: #fff;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+#divPhoto{
+    width: 30%;
+    float: left;
+}
+
+#imgPhoto{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.data{
+    width: 70%;
+    float: left;
+    text-align: left;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+
+}
+
+.fontData{
+    color: rgb(59, 113, 158);
+    text-transform: uppercase;
+}
+
+h2{
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+#goals{
+    text-align: left;
+}
+
+hr{
+    border-color: rgb(59, 113, 158);
+    margin-top: 5px;
+}
+
+#courses{
+    text-align: left;
+
+}
+
+h3{
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+h4{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 0px;
+}
+
+#column1{
+    float: left;
+    width: 47%;
+    padding-right: 2%;
+}
+
+#column2{
+    float: left;
+    width: 1px;
+    height: 300px;
+    background-color: rgb(59, 113, 158);
+}
+
+#column3{
+    float: left;
+    width: 47%;
+    padding-left: 2%;
+    text-align: left;
+}
+
+.itens{
+    float: left;
+}
+
+.bolinha{
+    height: 10px;
+    width: 12px;
+    background-color: rgb(59, 113, 158);
+    float: right;
+    border-radius: 50%;
+    margin-left: 10px;
+}

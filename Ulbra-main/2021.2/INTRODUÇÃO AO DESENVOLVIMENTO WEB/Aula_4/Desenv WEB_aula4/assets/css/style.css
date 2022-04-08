@@ -1,0 +1,25 @@
+body{
+    background-color: #ffffff;
+    text-align: center;
+
+}   
+.name{
+    width: 70%;
+    border: solid 1px;
+    margin: 0 auto;
+}    
+.row{
+    clear: both;
+    border: solid 1px rgb(104, 98, 98);
+}   
+
+#photo{
+   float: left;
+   border-radius: 50%;
+}
+
+#address{
+    width: 50%;
+	float: left; 
+}
+

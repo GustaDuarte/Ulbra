@@ -1,0 +1,3 @@
+Do grupo dos trabalhos de elicitação de requisitos, faça um diagrama de atividadas de um processo da area do domínio da aplicação que o grupo levantou.
+ 
+Um diagrama do grupo, todos entregam.

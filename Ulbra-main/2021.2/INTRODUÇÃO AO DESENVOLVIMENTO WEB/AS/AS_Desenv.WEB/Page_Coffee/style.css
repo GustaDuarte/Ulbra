@@ -1,0 +1,28 @@
+.body{
+    background-color: rgb(138, 111, 111);
+}
+
+.header {
+    background-color: rgb(99, 17, 17);
+
+}
+
+#imagem {
+    width: 800px;
+    height: 200px;
+    }
+    
+#texto {
+position: absolute;
+margin-top: -150px;
+}
+
+.img1 {
+    background-color: rgb(138, 111, 111);
+}
+
+.footer {
+    background-color: rgb(99, 17, 17);
+}
+
+

@@ -1,0 +1,76 @@
+*{
+    margin: 0 auto;
+}
+
+.page{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e2e2e2;
+}
+
+.row{
+    clear: both;
+    overflow: auto;
+}
+
+table, td, th{
+    border-bottom: solid 1px #e2e2e2;
+    border-collapse: collapse;
+}
+
+h1{
+    float: left;
+    min-width: 50%;
+    font-size: 16px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
+
+h2{
+    font-size: 20px;
+    padding: 10px;
+}
+
+h3{
+    font-size: 14px;
+}
+
+/* Cabeçalho*/
+.header{
+    background-color: rgb(39, 65, 99);
+    color: #fff;
+    overflow: auto;
+}
+
+/* Grupos */
+.ranking{
+    width: 50%;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.tableRanking{
+    width: 100%;
+}
+
+/* Goleadores */
+.goals{
+    width: 50%;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.tableGoals{
+    width: 100%;
+}
+
+/* Jogos*/
+.matches{
+    width: 50%;
+    background-color: #fff;
+    padding: 20px;
+}
+
+.tableMatches{
+    width: 100%;
+}

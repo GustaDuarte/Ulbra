@@ -1,0 +1,8 @@
+No protocolo TCP, expliquei qual utulização da camada de aplicações e seus conceitos.
+Resposta.
+
+No protocolo TCP são enocntrodas 4 camadas de aplicações:
+A camada de aplicação é a primeira, é onde são realizadas a maior parte das requisiçoes para execução de tarefas na rede, fazendo a comunicação entre os programas e os protocolos de transporte, sendo responsável por tudo que esta relacionado aos serviços de comunicação que visam a interação junto ao usuário.
+A camada de tranparte é a segunda de cima para baixo, visa a confiabilidade e integridade dos dados por meio de funções, controle de erro, sequenciação e multiplexação de mensagens.
+Internet é a terceira na camada TCP, sendo responsável pela permissão de envio de pacotes por hosts e pela garantia de que esses dados cheguem ao seu destino.
+E na última camada de baixo pra cima vamos ter a Interface de Rede, correspondente às camadas de enlace de dados e física do OSI, onde ocorre a conexão básica do host com a rede por meio de algum protocolo capaz de enviar pacotes IP.
