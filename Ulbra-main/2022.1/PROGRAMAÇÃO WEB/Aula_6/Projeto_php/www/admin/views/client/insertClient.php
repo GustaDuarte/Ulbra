@@ -1,5 +1,5 @@
 <h1>Inserindo cliente</h1>
-<form class="form" action="?controller=client&action=insertClientAction" method="post">
+<form class="form" action="?controller=clients&action=insertClientAction" method="post">
 
     <div class "mb-3 mt-3">
         <label class="form-label">Nome</label>
@@ -19,7 +19,7 @@
     <div class "mb-3 mt-3">
         <label class="form-label">Endereço</label>
         <input name="address" class="form-control" type="text">
-    </div>
+    </div><br>
 
 <input class="btn btn-primary" type="submit" value="Enviar">
 

@@ -33,7 +33,7 @@
             Endereço:
         </th>
         <td>
-            <?= $client['address'] ?>
+            <?= $client['adress'] ?>
         </td> 
     </tr>
     

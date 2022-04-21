@@ -62,14 +62,8 @@
                         case 'insertClientAction':
                             $client -> insertClientAction();
                         break;
-
-                        case 'listClients':
-                            $client -> listClients();
-                        break;
                     }
                 }
-                
-            break;
 
             case 'cadastro':
                 require_once('controllers/CadastroController.php');
@@ -84,6 +78,31 @@
 
                         case 'insertCadastroAction':
                             $cadastro -> insertCadastroAction();
+
+                        case 'listClient':
+                            $cadastro -> listClients();
+                        break;
+                    }
+                }
+
+                
+                require_once('controllers/ClientController.php');
+                $client = new ClientController();
+                if(!isset($_GET['action'])){
+                    $client -> insertClient();
+                }else{
+                    switch($_REQUEST['action']){
+                        case 'insertClient':
+                            $client -> insertClient();
+                        break;
+
+                        case 'insertClientAction':
+                            $client -> insertClientAction();
+                        break;
+
+                        case 'listClients':
+                            $client -> listClients();
+                        break;
                     }
                 }
 
