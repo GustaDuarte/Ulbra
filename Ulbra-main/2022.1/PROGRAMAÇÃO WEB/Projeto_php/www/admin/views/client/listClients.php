@@ -7,6 +7,7 @@
         <th>Telefone</th>
         <th>Email</th>
         <th>Endereço</th>
+        <th colspan="2">Ações</th>
     </tr>
 
     <?php
@@ -29,6 +30,12 @@
             </td>
             <td>
                 <?=$client['address']?>
+            </td>
+            <td>
+                <a href="?controller=clients&action=updateClient&id=<?=$client['idClient']?>"  class="btn btn-warning">Alterar</a>
+            </td>
+            <td>
+                <a href="?controller=clients&action=deleteClient&id=<?=$client['idClient']?>" class="btn btn-danger">Excluir</a>
             </td>
             </tr>
 

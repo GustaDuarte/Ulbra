@@ -66,6 +66,23 @@
                         case 'insertClientAction':
                             $client -> insertClientAction();
                         break;
+
+                        case 'updateClient':
+                            if(isset($_GET['id'])){
+                                $client -> updateClient($_GET['id']);
+                            }
+                        break;
+                        case 'updateClientAction':
+                            if(isset($_GET['id'])){
+                                $client -> updateClientAction($_GET['id']);
+                            }
+                        break;
+
+                        case 'deleteClient':
+                            if(isset($_GET['id'])){
+                                $client -> deleteClient($_GET['id']);
+                            }
+                        break;
                     }
                 }
             break;
