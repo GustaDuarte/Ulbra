@@ -25,26 +25,45 @@
 </head>
 <body class="bg-light text-dark">
     
-    <header class="p-5 rounded text-center bg-secondary text-white">
-    <h1>Minha Área Administrativa</h1>
-    <p>Exemplo de estrutura admin...</p>
-    <a href="index.php?controller=main&action=logout">Logout</a>
+    <header class="p-5 rounded text-center bg-dark text-white">
+    <h1>Header</h1>
     </header>
 
     <section class="row">
         <nav class="col-md-4">
 
-                <h3>Menu</h3>
+                <h3>Nav</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque, natus!</p>
             <ul class="nav flex-column">
                 <li class="nav-item">
-                    <a id="home" class="nav-link" href="?controller=main&action=index">Home</a>
+                    <a class="nav-link" href="?controller=site&action=home">Home</a>
                 </li>
-                <h3>Clientes</h3>
+
                 <li class="nav-item">
-                    <a id="list" class="nav-link" href="?controller=client&action=listClients">Lista Clientes</a>
+                    <a class="nav-link" href="?controller=site&action=about">Sobre</a>
                 </li>
+
                 <li class="nav-item">
-                    <a id="insert" class="nav-link" href="?controller=client&action=insertClient"> -> Novo Clientes</a>
+                    <a class="nav-link" href="?controller=site&action=products">Produtos</a>
                 </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="?controller=contact&action=insertContact">Contato</a>
+                </li>
+
+                    <h3>Clientes</h3>
+                <li class="nav-item">
+                    <a class="nav-link" href="?controller=client&action=insertClient">Clients</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="?controller=cadastro&action=insertCadastro">Cadastro</a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="?controller=client&action=listClients">Listar Clientes</a>
+                </li>
+            </ul>
+
         </nav>
         <article class="col-md-8">
