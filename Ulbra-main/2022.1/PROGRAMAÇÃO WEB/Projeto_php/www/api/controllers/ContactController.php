@@ -1,52 +1,52 @@
 <?php
 
-class ClientController{
+class ContactController{
 
-    var $ClientModel;
+    var $ContactModel;
 
     function __construct(){
-        require_once('models/ClientModel.php');
-        $this -> ClientModel = new ClientModel();
+        require_once('models/ContactModel.php');
+        $this -> ContactModel = new ContactModel();
     }
 
-    function listClients(){
-        $result = $this -> ClientModel -> listClients();
-        $arrayClients = array();
+    function insertContact(){
+
+        $contact = json_decode(file_get_contents('php://input'));
+
+        $arrayContact = array(
+            'name' => $contact -> name,
+            'email' => $contact -> email,
+            'message' => $contact -> message
+        );
+        $idContact = $this -> ContactModel -> insertContact($arrayContact);
+        header('Content-Type: application/json');
+        echo('{"message": "contato cadastrado com sucesso!"}');
+    }
+
+    function listContacts(){
+        $result = $this -> ContactModel -> listContacts();
+        $arrayContacts = array();
         while($line = $result -> fetch_assoc()){
-            array_push($arrayClients, $line);
+            array_push($arrayContacts, $line);
         }
         header('Content-Type: application/json');
-        echo json_encode($arrayClients);
+        echo json_encode($arrayContacts);
 
-    }
+    } 
 
-    function listClient($idClient){
-        $result = $this -> ClientModel -> listClient($idClient);
-        if($client = $result->fetch_assoc()){
+     function listContact($idContact){
+        $result = $this -> ContactModel -> listContact($idContact);
+        if($contact = $result->fetch_assoc()){
             header('Content-Type: application/json');
-            echo json_encode($client);
+            echo json_encode($contact);
         }else{
             header('Content-Type: application/json');
-            echo('{"error": 01 ,"message": "cliente não encontrado"}');
+            echo('{"error": 01 ,"message": "contato não encontrado"}');
         }
-    }
+    }  
 
-    function insertClient(){
 
-        $client = json_decode(file_get_contents('php://input'));
-
-        $arrayClient = array(
-            'name' => $client -> name,
-            'phone' => $client -> phone,
-            'email' => $client -> email,
-            'address' => $client -> address
-        );
-        $idClient = $this -> ClientModel -> insertClient($arrayClient);
-        header('Content-Type: application/json');
-        echo('{"cod": 01 ,"message": "cliente foi cadastrado"}');
-    }
-
-    function updateClient($idClient){
+   /*  function updateClient($idClient){
 
         $client = json_decode(file_get_contents('php://input'));
 
@@ -60,9 +60,9 @@ class ClientController{
 
         $this -> ClientModel -> updateClient($arrayClient);
 
-    }
+    } */
 
-    function deleteClient($idClient){
+  /*   function deleteClient($idClient){
         $this -> ClientModel -> deleteClient($idClient);
     }
 
@@ -78,7 +78,7 @@ class ClientController{
         $idContact = $this -> ClientModel -> insertContact($arrayContact);
         header('Content-Type: application/json');
         echo('{"message": "contato cadastrado com sucesso!"}');
-    }
+    } */
 
 }
 
