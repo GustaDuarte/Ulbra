@@ -1,0 +1,52 @@
+CRITICAL - 2022-06-19 10:45:17 --> Invalid file: pages/insertClient.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertClient.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertClient', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertClient')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertClient')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-19 10:45:23 --> Invalid file: pages/insertCadastro.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertCadastro.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertCadastro', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertCadastro')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertCadastro')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-19 11:18:36 --> syntax error, unexpected token "->"
+in APPPATH/Controllers/Admin/Admin.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Admin/Admin.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Admin')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Admin')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Admin\\Admin', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-19 11:29:02 --> Undefined variable $userpassword
+in APPPATH/Controllers/Admin/User.php on line 16.
+ 1 APPPATH/Controllers/Admin/User.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userpassword', 'APPPATH/Controllers/Admin/User.php', 16)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\User->validateLogin()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\User))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-19 14:08:14 --> Invalid file: pages/insertContact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertContact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertContact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertContact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertContact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-19 14:08:25 --> Invalid file: pages/insertContact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertContact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertContact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertContact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertContact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
