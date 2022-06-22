@@ -1,0 +1,81 @@
+CRITICAL - 2022-06-07 18:15:48 --> Invalid file: pages/contact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/contact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/contact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/contact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('contact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 18:21:40 --> Invalid file: pages/insertContact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertContact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertContact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertContact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertContact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 18:22:01 --> Invalid file: pages/insertContact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertContact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertContact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertContact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertContact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 18:31:27 --> Invalid file: pages/contact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/contact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/contact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/contact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('contact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 18:33:05 --> Invalid file: pages/insertContact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertContact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertContact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertContact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertContact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 18:34:47 --> Invalid file: pages/contact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/contact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/contact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/contact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('contact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 19:18:20 --> Invalid file: pages/insertContact.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertContact.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertContact', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertContact')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertContact')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 19:18:24 --> Invalid file: pages/insertClient.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertClient.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertClient', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertClient')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertClient')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-07 19:18:27 --> Invalid file: pages/insertCadastro.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/insertCadastro.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('pages/insertCadastro', [], true)
+ 3 APPPATH/Controllers/Site.php(13): view('pages/insertCadastro')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Site->view('insertCadastro')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Site))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
