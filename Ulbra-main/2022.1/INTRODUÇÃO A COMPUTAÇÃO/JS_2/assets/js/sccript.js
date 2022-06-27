@@ -9,17 +9,20 @@ function decimalToBinary(numero, base){
     var resto = 0;
 
     while (i == 0) {
-        resto = parseInt(dividendo) % base;
+        resto = parseInt(dividendo) % base; // resto recebe 10
         if(base === 16){
-            resto = decimalToHex(resto)
+            resto = decimalToHex(resto); // resto que é 10 se torna A
         }
         result += resto.toString();
         //     += concatena strings
-        dividendo = parseInt(dividendo / base);
-
+        dividendo = parseInt(dividendo / base); //aqui o dividendo se da igual a 0; 
+        console.log(dividendo);
         if(dividendo < base){
             i++;
-            result += decimalToHex(dividendo);
+            if(dividendo != 0){
+                result += decimalToHex(dividendo);
+                console.log(result);
+            }
         }
     }
     return reverse(result);
