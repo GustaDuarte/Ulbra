@@ -1,2 +1,2 @@
 <h1>Home</h1>
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum, magni!</p>
+<p class=".text-wrap">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum, magni!</p>

@@ -25,3 +25,4 @@
             <?=$client['phone']?>
         </td>
     </tr>
+</table>
