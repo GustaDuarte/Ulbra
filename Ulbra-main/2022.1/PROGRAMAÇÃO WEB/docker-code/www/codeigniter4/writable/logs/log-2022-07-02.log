@@ -1,0 +1,225 @@
+CRITICAL - 2022-07-02 09:28:45 --> Call to a member function query() on null
+in APPPATH/Models/ClientModel.php on line 35.
+ 1 APPPATH/Controllers/Client.php(26): App\Models\ClientModel->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:29:34 --> Call to a member function query() on null
+in APPPATH/Models/ClientModel.php on line 35.
+ 1 APPPATH/Controllers/Client.php(26): App\Models\ClientModel->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:30:42 --> Unclosed '{' on line 7
+in APPPATH/Models/ClientModel.php on line 39.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Models/ClientModel.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\ClientModel')
+ 3 APPPATH/Controllers/Client.php(24): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\ClientModel')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:44:10 --> 'break' not in the 'loop' or 'switch' context
+in APPPATH/Controllers/Client.php on line 66.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2022-07-02 09:44:40 --> Undefined variable $requestMethod
+in APPPATH/Controllers/Client.php on line 55.
+ 1 APPPATH/Controllers/Client.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $requestMethod', 'APPPATH/Controllers/Client.php', 55)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:46:13 --> syntax error, unexpected token "{", expecting "("
+in APPPATH/Controllers/Client.php on line 53.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:46:28 --> syntax error, unexpected token ")"
+in APPPATH/Controllers/Client.php on line 53.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:47:16 --> syntax error, unexpected token "case"
+in APPPATH/Controllers/Client.php on line 53.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:49:10 --> Undefined variable $requestMethod
+in APPPATH/Controllers/Client.php on line 54.
+ 1 APPPATH/Controllers/Client.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $requestMethod', 'APPPATH/Controllers/Client.php', 54)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:49:33 --> Undefined variable $requestMethod
+in APPPATH/Controllers/Client.php on line 54.
+ 1 APPPATH/Controllers/Client.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $requestMethod', 'APPPATH/Controllers/Client.php', 54)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:50:56 --> Undefined variable $method
+in APPPATH/Controllers/Client.php on line 54.
+ 1 APPPATH/Controllers/Client.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $method', 'APPPATH/Controllers/Client.php', 54)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:50:57 --> Undefined variable $method
+in APPPATH/Controllers/Client.php on line 54.
+ 1 APPPATH/Controllers/Client.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $method', 'APPPATH/Controllers/Client.php', 54)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:51:14 --> Undefined variable $request
+in APPPATH/Controllers/Client.php on line 54.
+ 1 APPPATH/Controllers/Client.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'APPPATH/Controllers/Client.php', 54)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 09:51:15 --> Undefined variable $request
+in APPPATH/Controllers/Client.php on line 54.
+ 1 APPPATH/Controllers/Client.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'APPPATH/Controllers/Client.php', 54)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->index()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:12:28 --> syntax error, unexpected identifier "json_encode", expecting ":"
+in APPPATH/Controllers/Client.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:13:59 --> Undefined variable $routes
+in APPPATH/Controllers/Client.php on line 24.
+ 1 APPPATH/Controllers/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $routes', 'APPPATH/Controllers/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:16:26 --> Invalid file: {"clients":[{"idClient":"3","name":"Nome do Cliente 3","phone":"+5551987654321","email":"email3@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"4","name":"Nome do Cliente 4","phone":"+5551987654321","email":"email4@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"5","name":"Nome do Cliente ","phone":"+555198765432","email":"email5@teste","address":"Rua da Ulbra, 1900. Torres -"},{"idClient":"8","name":"Gustavo Rosa Duarte","phone":"(51) 99568-6835","email":"gustavo.777.colorado@gmail.com","address":"Honorio Germano"}]}
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('{"clients":[{"idClient":"3","name":"Nome do Cliente 3","phone":"+5551987654321","email":"email3@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"4","name":"Nome do Cliente 4","phone":"+5551987654321","email":"email4@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"5","name":"Nome do Cliente ","phone":"+555198765432","email":"email5@teste","address":"Rua da Ulbra, 1900. Torres -"},{"idClient":"8","name":"Gustavo Rosa Duarte","phone":"(51) 99568-6835","email":"gustavo.777.colorado@gmail.com","address":"Honorio Germano"}]}')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('{"clients":[{"idClient":"3","name":"Nome do Cliente 3","phone":"+5551987654321","email":"email3@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"4","name":"Nome do Cliente 4","phone":"+5551987654321","email":"email4@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"5","name":"Nome do Cliente ","phone":"+555198765432","email":"email5@teste","address":"Rua da Ulbra, 1900. Torres -"},{"idClient":"8","name":"Gustavo Rosa Duarte","phone":"(51) 99568-6835","email":"gustavo.777.colorado@gmail.com","address":"Honorio Germano"}]}', [], true)
+ 3 APPPATH/Controllers/Client.php(29): view('{"clients":[{"idClient":"3","name":"Nome do Cliente 3","phone":"+5551987654321","email":"email3@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"4","name":"Nome do Cliente 4","phone":"+5551987654321","email":"email4@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"5","name":"Nome do Cliente ","phone":"+555198765432","email":"email5@teste","address":"Rua da Ulbra, 1900. Torres -"},{"idClient":"8","name":"Gustavo Rosa Duarte","phone":"(51) 99568-6835","email":"gustavo.777.colorado@gmail.com","address":"Honorio Germano"}]}')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:18:37 --> syntax error, unexpected identifier "view", expecting ":"
+in APPPATH/Controllers/Client.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:22:33 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH/Controllers/Client.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:22:41 --> syntax error, unexpected variable "$data", expecting ")"
+in APPPATH/Controllers/Client.php on line 29.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:24:28 --> file_get_contents({&quot;clients&quot;:[{&quot;idClient&quot;:&quot;3&quot;,&quot;name&quot;:&quot;Nome do Cliente 3&quot;,&quot;phone&quot;:&quot;+5551987654321&quot;,&quot;email&quot;:&quot;email3@teste.com&quot;,&quot;address&quot;:&quot;Rua da Ulbra, 1900. Torres -RS&quot;},{&quot;idClient&quot;:&quot;4&quot;,&quot;name&quot;:&quot;Nome do Cliente 4&quot;,&quot;phone&quot;:&quot;+5551987654321&quot;,&quot;email&quot;:&quot;email4@teste.com&quot;,&quot;address&quot;:&quot;Rua da Ulbra, 1900. Torres -RS&quot;},{&quot;idClient&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Nome do Cliente &quot;,&quot;phone&quot;:&quot;+555198765432&quot;,&quot;email&quot;:&quot;email5@teste&quot;,&quot;address&quot;:&quot;Rua da Ulbra, 1900. Torres -&quot;},{&quot;idClient&quot;:&quot;8&quot;,&quot;name&quot;:&quot;Gustavo Rosa Duarte&quot;,&quot;phone&quot;:&quot;(51) 99568-6835&quot;,&quot;email&quot;:&quot;gustavo.777.colorado@gmail.com&quot;,&quot;address&quot;:&quot;Honorio Germano&quot;}]}): Failed to open stream: File name too long
+in APPPATH/Controllers/Client.php on line 29.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents({&quot;clients&quot;:[{&quot;idClient&quot;:&quot;3&quot;,&quot;name&quot;:&quot;Nome do Cliente 3&quot;,&quot;phone&quot;:&quot;+5551987654321&quot;,&quot;email&quot;:&quot;email3@teste.com&quot;,&quot;address&quot;:&quot;Rua da Ulbra, 1900. Torres -RS&quot;},{&quot;idClient&quot;:&quot;4&quot;,&quot;name&quot;:&quot;Nome do Cliente 4&quot;,&quot;phone&quot;:&quot;+5551987654321&quot;,&quot;email&quot;:&quot;email4@teste.com&quot;,&quot;address&quot;:&quot;Rua da Ulbra, 1900. Torres -RS&quot;},{&quot;idClient&quot;:&quot;5&quot;,&quot;name&quot;:&quot;Nome do Cliente &quot;,&quot;phone&quot;:&quot;+555198765432&quot;,&quot;email&quot;:&quot;email5@teste&quot;,&quot;address&quot;:&quot;Rua da Ulbra, 1900. Torres -&quot;},{&quot;idClient&quot;:&quot;8&quot;,&quot;name&quot;:&quot;Gustavo Rosa Duarte&quot;,&quot;phone&quot;:&quot;(51) 99568-6835&quot;,&quot;email&quot;:&quot;gustavo.777.colorado@gmail.com&quot;,&quot;address&quot;:&quot;Honorio Germano&quot;}]}): Failed to open stream: File name too long', 'APPPATH/Controllers/Client.php', 29)
+ 2 APPPATH/Controllers/Client.php(29): file_get_contents('{"clients":[{"idClient":"3","name":"Nome do Cliente 3","phone":"+5551987654321","email":"email3@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"4","name":"Nome do Cliente 4","phone":"+5551987654321","email":"email4@teste.com","address":"Rua da Ulbra, 1900. Torres -RS"},{"idClient":"5","name":"Nome do Cliente ","phone":"+555198765432","email":"email5@teste","address":"Rua da Ulbra, 1900. Torres -"},{"idClient":"8","name":"Gustavo Rosa Duarte","phone":"(51) 99568-6835","email":"gustavo.777.colorado@gmail.com","address":"Honorio Germano"}]}')
+ 3 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 4 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 5 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:24:44 --> Path cannot be empty
+in APPPATH/Controllers/Client.php on line 28.
+ 1 APPPATH/Controllers/Client.php(28): file_get_contents('ROOTPATH/public')
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:25:15 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:26:02 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:26:37 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:27:07 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:27:19 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:27:37 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:27:56 --> file_get_contents() expects at least 1 argument, 0 given
+in APPPATH/Controllers/Client.php on line 30.
+ 1 APPPATH/Controllers/Client.php(30): file_get_contents()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-02 10:28:48 --> file_get_contents(): Argument #1 ($filename) must be of type string, array given
+in APPPATH/Controllers/Client.php on line 29.
+ 1 APPPATH/Controllers/Client.php(29): file_get_contents([...])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "647d32d92ec8cd1833e09746"
+  },
+  "detentoId": 1,
+  "firstName": "Joao Silva",
+  "bloco": "A",
+  "cela": 101
+},
+{
+  "_id": {
+    "$oid": "647d32de2ec8cd1833e09747"
+  },
+  "detentoId": 2,
+  "firstName": "Maria Campos",
+  "bloco": "B",
+  "cela": 107
+},
+{
+  "_id": {
+    "$oid": "647d32e42ec8cd1833e09748"
+  },
+  "detentoId": 3,
+  "firstName": "Diogo Jota",
+  "bloco": "C",
+  "cela": 111
+}]

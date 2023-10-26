@@ -1,0 +1,12 @@
+Você foi contratado para desenvolver um sistema para uma escola que permita apresentar informações sobre professores e alunos. 
+
+Para isso, você decidiu utilizar interfaces para ajudar a manter um baixo acoplamento entre as classes e facilitar a manutenção e a extensibilidade do código. 
+Você definiu a interface IPessoa, que contém as propriedades Nome e Idade e o método Falar, que são implementados pelas classes Professor e Aluno. 
+
+Além disso, você criou a classe Escola, que recebe uma instância de uma classe que implementa a interface IPessoa em seu método ApresentarPessoa e chama o método Falar através desta referência. 
+
+Com isso, você conseguiu apresentar informações sobre os professores e alunos de forma simples e eficiente, independentemente da implementação real de cada classe.
+
+
+Represente a solução do problema em c#. 
+

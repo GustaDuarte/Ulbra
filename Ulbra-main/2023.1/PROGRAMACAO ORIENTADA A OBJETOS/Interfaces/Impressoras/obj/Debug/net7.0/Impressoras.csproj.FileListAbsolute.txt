@@ -1,0 +1,15 @@
+C:\Users\gusta\Documents\A10\Impressoras\bin\Debug\net7.0\Impressoras.exe
+C:\Users\gusta\Documents\A10\Impressoras\bin\Debug\net7.0\Impressoras.deps.json
+C:\Users\gusta\Documents\A10\Impressoras\bin\Debug\net7.0\Impressoras.runtimeconfig.json
+C:\Users\gusta\Documents\A10\Impressoras\bin\Debug\net7.0\Impressoras.dll
+C:\Users\gusta\Documents\A10\Impressoras\bin\Debug\net7.0\Impressoras.pdb
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.AssemblyInfoInputs.cache
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.AssemblyInfo.cs
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.dll
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\refint\Impressoras.dll
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.pdb
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\Impressoras.genruntimeconfig.cache
+C:\Users\gusta\Documents\A10\Impressoras\obj\Debug\net7.0\ref\Impressoras.dll

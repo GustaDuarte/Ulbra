@@ -1,0 +1,73 @@
+Você foi contratado para criar um sistema de navegação para uma empresa de transporte público. O sistema deve encontrar a rota mais curta entre duas paradas de ônibus, considerando o tempo de viagem como peso das arestas. Implemente um algoritmo do Algoritmo de Dijkstra que receba como entrada um grafo ponderado representando as paradas de ônibus e o tempo de viagem entre elas. O algoritmo deve calcular a rota mais curta entre uma parada de origem e uma parada de destino.
+
+Passos:
+
+Defina uma função chamada Dijkstra que receba como parâmetros o grafo, a parada de origem e a parada de destino.
+Inicialize uma estrutura de dados para armazenar as distâncias mínimas até cada parada de ônibus. Inicialize todas as distâncias como infinito, exceto a distância da parada de origem, que será 0.
+Inicialize uma estrutura de dados para armazenar os nós visitados.
+Enquanto houver nós não visitados:
+Escolha o nó com a menor distância mínima que ainda não foi visitado.
+Marque o nó como visitado.
+Para cada vizinho não visitado do nó atual:
+Calcule a distância até o vizinho somando a distância mínima do nó atual com o peso da aresta entre eles.
+Se a nova distância for menor do que a distância mínima atual do vizinho, atualize a distância mínima.
+Retorne a distância mínima até a parada de destino.
+Desafio extra: Modifique o algoritmo para que ele também retorne a rota completa entre a parada de origem e a parada de destino.
+
+Você pode usar o trecho do código.
+
+
+import java.util.*;
+
+public class DijkstraAlgorithm {
+
+    public static int dijkstra(Graph graph, int source, int destination) {
+       ////implemente aqui
+
+    }
+
+    public static void main(String[] args) {
+        // Exemplo de uso do algoritmo
+
+        // Criação do grafo e adição de arestas com pesos
+        Graph graph = new Graph(6);
+        graph.addEdge(0, 1, 2);
+        graph.addEdge(0, 2, 4);
+        graph.addEdge(1, 2, 1);
+        graph.addEdge(1, 3, 7);
+        graph.addEdge(2, 4, 3);
+        graph.addEdge(3, 4, 1);
+        graph.addEdge(3, 5, 5);
+        graph.addEdge(4, 5, 2);
+
+        int source = 0;
+        int destination = 5;
+
+        int shortestDistance = dijkstra(graph, source, destination);
+        System.out.println("A menor distância entre a parada " + source + " e a parada " + destination + " é: " + shortestDistance);
+    }
+}
+
+class Graph {
+    private int numVertices;
+    private int[][] adjacencyMatrix;
+
+    public Graph(int numVertices) {
+        this.numVertices = numVertices;
+        adjacencyMatrix = new int[numVertices][numVertices];
+    }
+
+    public void addEdge(int source, int destination, int weight) {
+        adjacencyMatrix[source][destination] = weight;
+        adjacencyMatrix[destination][source] = weight;
+    }
+
+    public int getNumVertices() {
+        return numVertices;
+    }
+
+    public int getWeight(int source, int destination) {
+        return adjacencyMatrix[source][destination];
+    }
+}
+

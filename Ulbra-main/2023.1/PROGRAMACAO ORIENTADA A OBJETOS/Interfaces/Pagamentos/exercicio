@@ -1,0 +1,11 @@
+Desenvolva um programa em C# que demonstre o uso de interfaces para ajudar a manter um baixo acoplamento entre as classes em um sistema de pagamento.
+
+Para isso, defina a interface IPagamento, que contém o método Pagar, implementado pelas classes CartaoCredito e Boleto. 
+
+Além disso, crie a classe Cliente, que recebe uma instância de uma classe que implementa a interface IPagamento em seu construtor e chama o método Pagar através desta referência. 
+
+Por fim, crie uma instância de cada classe que implementa a interface IPagamento e passe-as para os construtores de duas instâncias da classe Cliente. 
+
+Em seguida, chame o método Comprar para cada uma das instâncias da classe Cliente, passando um valor como parâmetro.
+
+O programa deve imprimir no console uma mensagem indicando o método de pagamento utilizado e o valor da compra realizada.

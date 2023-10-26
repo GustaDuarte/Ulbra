@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\aula3\ExParte1\bin\Debug\net7.0\ExParte1.exe
+C:\Users\gusta\Desktop\aula3\ExParte1\bin\Debug\net7.0\ExParte1.deps.json
+C:\Users\gusta\Desktop\aula3\ExParte1\bin\Debug\net7.0\ExParte1.runtimeconfig.json
+C:\Users\gusta\Desktop\aula3\ExParte1\bin\Debug\net7.0\ExParte1.dll
+C:\Users\gusta\Desktop\aula3\ExParte1\bin\Debug\net7.0\ExParte1.pdb
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.AssemblyInfo.cs
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.dll
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\refint\ExParte1.dll
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.pdb
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ExParte1.genruntimeconfig.cache
+C:\Users\gusta\Desktop\aula3\ExParte1\obj\Debug\net7.0\ref\ExParte1.dll

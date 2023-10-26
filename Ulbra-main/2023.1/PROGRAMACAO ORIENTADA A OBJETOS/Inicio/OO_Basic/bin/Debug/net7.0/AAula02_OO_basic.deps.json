@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AAula02_OO_basic/1.0.0": {
+        "runtime": {
+          "AAula02_OO_basic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AAula02_OO_basic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0fcd57c-3b81-4273-a4a4-22e577f3e452" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/AluguelCarros/ddlCarros.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/Artigos/ddlArtigos.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/ER/artigoslModConceitual.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/ER/artigoslModLogico.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/ER/carrosAluguelModConceitual.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/ER/carrosAluguelModRelacional.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/ER/sociosModConceitual.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/ER/sociosModlogico.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Ap2/Socios/ddlSocios.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Aula12DDL/Aula12DDL.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/Aula13DDL/aula13ddl.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/BrModelo/Aula1/Aula1.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/BrModelo/Aula11/modConceitualDDL.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/BrModelo/Aula2/Ex2.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/BrModelo/Aula2/Ex3.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/BrModelo/modeloLogico/Lógico.brM3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/FDB-SQL-A5/Aula15.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/FDB-SQL/Aula01-create-table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/FDB-SQL/atividade_ddl.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../FUNDAMENTO DE BANCO DE DADOS/TDE-A16/GustavoDuarte.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/API.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_68.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_68.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_68.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/src/main/java/com/example/demo/Saudacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/src/main/java/com/example/demo/SaudacaoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/API/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/out/production/senha/senha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/out/production/senha/testarMetodo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/senha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/src/senha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap1/randomPassword/senha/src/testarMetodo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/Exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/out/production/exercicio1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/out/production/exercicio1/Ponto2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/out/production/exercicio1/Ponto3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/src/Ponto2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/exercicio1/src/Ponto3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/out/production/Exercicio1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/out/production/Exercicio1/Ponto2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio1/out/production/Exercicio1/Ponto3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/Exercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/src/Automovel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/src/Motocicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/src/Onibus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/Exercicio2/src/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/out/production/Exercicio2/Automovel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/out/production/Exercicio2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/out/production/Exercicio2/Motocicleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/out/production/Exercicio2/Onibus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio2/out/production/Exercicio2/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/Exercicio3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/out/production/Exercicio3/AreaCalculavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/out/production/Exercicio3/Circunferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/out/production/Exercicio3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/out/production/Exercicio3/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/out/production/Exercicio3/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/src/AreaCalculavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/src/Circunferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/src/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Ap2/Exercicio3/src/Retangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Aula3/ExerciciosAula4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Aula3/ExerciciosAula4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/Exercicios.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/out/production/Exercicios/exercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios/src/exercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/Exercicios2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/out/production/Exercicios2/exercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/Exercicios2/src/exercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios2/out/production/Exercicios2/exercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/ExerciciosAula4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/out/production/ExerciciosAula4/Exercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/Exercicios3Array/src/Exercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/Exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/out/production/Exercicio1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/out/production/Exercicio1/Ponteiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/out/production/Exercicio1/Relogio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/src/Ponteiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio1/src/Relogio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/Exercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/out/production/Exercicio2/Fracao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/out/production/Exercicio2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/src/Fracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOAO/Exercicio2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/Exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/exercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/out/production/exercicio1/Circunferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/out/production/exercicio1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/out/production/exercicio1/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/out/production/exercicio1/Trapezio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/out/production/exercicio1/Triangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/src/Circunferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/src/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/src/Trapezio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio1/exercicio1/src/Triangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/Exercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/out/production/Exercicio2/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/out/production/Exercicio2/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/out/production/Exercicio2/Prova.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/out/production/Exercicio2/Turma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/src/Programa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/src/Prova.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/IdeaProjects/ExerciciosOaO2/Exercicio2/src/Turma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LABORATÓRIO DE PROGRAMAÇÃO/LABORATÓRIO DE PROGRAMAÇÃO.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="2IB59am2zLrp6prgJo36pBaUHmh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/gusta/Documents/Ulbra/Ulbra-main/2022.2/LaboratorioProgramacao/IdeaProjects/API/notas"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0fcd57c-3b81-4273-a4a4-22e577f3e452" name="Changes" comment="" />
+      <created>1669641985997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669641985997</updated>
+      <workItem from="1669641987558" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

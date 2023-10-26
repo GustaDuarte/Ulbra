@@ -1,0 +1,13 @@
+Você foi designado para desenvolver um algoritmo que permita a montagem de um grafo não direcionado para representar as amizades entre um grupo de pessoas. O grafo deve ser representado utilizando a técnica de lista de adjacências. Implemente uma classe chamada "Grafo" que possua os seguintes métodos:
+
+  Um construtor que recebe como parâmetro o número total de pessoas no grupo e inicializa a estrutura de dados necessária para representar o grafo.
+  Um método chamado "adicionarAresta" que recebe dois parâmetros: o identificador das duas pessoas que são amigas e adiciona uma aresta entre elas no grafo.
+  Um método chamado "imprimirGrafo" que imprime no console as conexões de cada pessoa do grupo.
+  Utilize o algoritmo desenvolvido para criar um grafo com as seguintes amizades:
+
+  Pessoa 0 é amiga de pessoa 1.
+  Pessoa 1 é amiga de pessoa 2.
+  Pessoa 2 é amiga de pessoa 3.
+  Pessoa 3 é amiga de pessoa 4.
+
+  Após criar o grafo, utilize o método "imprimirGrafo" para visualizar as conexões entre as pessoas. Desenvolva o algoritmo em Java e teste seu funcionamento utilizando o exemplo de amizades fornecido.

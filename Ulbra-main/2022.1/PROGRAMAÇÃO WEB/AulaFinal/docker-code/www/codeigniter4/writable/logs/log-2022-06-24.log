@@ -1,0 +1,30 @@
+CRITICAL - 2022-06-24 12:39:37 --> Invalid file: admin/client/updateClient.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/client/updateClient.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/updateClient', [], true)
+ 3 APPPATH/Controllers/Admin/Client.php(59): view('admin/client/updateClient', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('1')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-24 12:40:00 --> Invalid file: admin/client/update.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/client/update.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/update', [], true)
+ 3 APPPATH/Controllers/Admin/Client.php(59): view('admin/client/update', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('1')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-24 12:40:08 --> Invalid file: admin/client/update.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/client/update.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/update', [], true)
+ 3 APPPATH/Controllers/Admin/Client.php(59): view('admin/client/update', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('4')
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-24 12:50:50 --> Cannot redeclare App\Controllers\Admin\Client::updateClient()
+in APPPATH/Controllers/Admin/Client.php on line 64.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

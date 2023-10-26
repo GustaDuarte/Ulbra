@@ -1,0 +1,350 @@
+CRITICAL - 2022-07-01 17:06:58 --> Undefined variable $search
+in APPPATH/Views/admin/client/listClients.php on line 9.
+ 1 APPPATH/Views/admin/client/listClients.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Views/admin/client/listClients.php', 9)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:09:12 --> Undefined variable $search
+in APPPATH/Views/admin/client/listClients.php on line 10.
+ 1 APPPATH/Views/admin/client/listClients.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Views/admin/client/listClients.php', 10)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:10:06 --> Undefined variable $search
+in APPPATH/Views/admin/client/listClients.php on line 10.
+ 1 APPPATH/Views/admin/client/listClients.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Views/admin/client/listClients.php', 10)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:14:50 --> Undefined variable $search
+in APPPATH/Views/admin/client/listClients.php on line 10.
+ 1 APPPATH/Views/admin/client/listClients.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Views/admin/client/listClients.php', 10)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:17:51 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 9.
+ 1 APPPATH/Views/admin/client/listClients.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 9)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:18:04 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 10.
+ 1 APPPATH/Views/admin/client/listClients.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 10)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:18:08 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 10.
+ 1 APPPATH/Views/admin/client/listClients.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 10)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:18:25 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 9.
+ 1 APPPATH/Views/admin/client/listClients.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 9)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:22:07 --> Undefined array key "%"
+in APPPATH/Views/admin/client/listClients.php on line 12.
+ 1 APPPATH/Views/admin/client/listClients.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "%"', 'APPPATH/Views/admin/client/listClients.php', 12)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:23:14 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 17.
+ 1 APPPATH/Views/admin/client/listClients.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 17)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(17): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 17:54:45 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 24.
+ 1 APPPATH/Controllers/Admin/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:01:57 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 24 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 21.
+ 1 APPPATH/Controllers/Admin/Client.php(24): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:01:58 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 24 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 21.
+ 1 APPPATH/Controllers/Admin/Client.php(24): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:02:26 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 24.
+ 1 APPPATH/Controllers/Admin/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:03:18 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 24.
+ 1 APPPATH/Controllers/Admin/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:03:20 --> Undefined variable $search
+in APPPATH/Controllers/Admin/Client.php on line 24.
+ 1 APPPATH/Controllers/Admin/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $search', 'APPPATH/Controllers/Admin/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 18:03:26 --> Too few arguments to function App\Models\ClientModel::getClientsFor(), 0 passed in /var/www/html/codeigniter4/app/Controllers/Admin/Client.php on line 24 and exactly 1 expected
+in APPPATH/Models/ClientModel.php on line 21.
+ 1 APPPATH/Controllers/Admin/Client.php(24): App\Models\ClientModel->getClientsFor()
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:05:22 --> Undefined variable $clients
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clients', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(23): view('admin/client/listClients')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:05:39 --> Undefined variable $clients
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clients', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(23): view('admin/client/listClients')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:07:40 --> Undefined variable $clients
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clients', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(23): view('admin/client/listClients')
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:11:51 --> Invalid file: admin/client/serchClient.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/client/serchClient.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/serchClient', [], true)
+ 3 APPPATH/Controllers/Admin/Client.php(23): view('admin/client/serchClient')
+ 4 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClient()
+ 5 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:22:18 --> Undefined array key "pesquisa"
+in APPPATH/Controllers/Admin/Client.php on line 31.
+ 1 APPPATH/Controllers/Admin/Client.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pesquisa"', 'APPPATH/Controllers/Admin/Client.php', 31)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClientAction()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:22:51 --> Undefined array key "pesquisa"
+in APPPATH/Controllers/Admin/Client.php on line 31.
+ 1 APPPATH/Controllers/Admin/Client.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pesquisa"', 'APPPATH/Controllers/Admin/Client.php', 31)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClientAction()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:22:54 --> Undefined array key "pesquisa"
+in APPPATH/Controllers/Admin/Client.php on line 31.
+ 1 APPPATH/Controllers/Admin/Client.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pesquisa"', 'APPPATH/Controllers/Admin/Client.php', 31)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClientAction()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:23:39 --> Undefined array key "pesquisa"
+in APPPATH/Controllers/Admin/Client.php on line 31.
+ 1 APPPATH/Controllers/Admin/Client.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "pesquisa"', 'APPPATH/Controllers/Admin/Client.php', 31)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->searchClientAction()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:23:51 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/updateClient.php on line 2.
+ 1 APPPATH/Views/admin/client/updateClient.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/updateClient.php', 2)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/updateClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/updateClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(78): view('admin/client/updateClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('2')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:24:01 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/updateClient.php on line 2.
+ 1 APPPATH/Views/admin/client/updateClient.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/updateClient.php', 2)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/updateClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/updateClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(78): view('admin/client/updateClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('2')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:24:36 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/updateClient.php on line 2.
+ 1 APPPATH/Views/admin/client/updateClient.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/updateClient.php', 2)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/updateClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/updateClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(78): view('admin/client/updateClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('8')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:24:41 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/detailsClient.php on line 7.
+ 1 APPPATH/Views/admin/client/detailsClient.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/detailsClient.php', 7)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/detailsClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/detailsClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(47): view('admin/client/detailsClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->detailsClient('2')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:25:51 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/detailsClient.php on line 7.
+ 1 APPPATH/Views/admin/client/detailsClient.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/detailsClient.php', 7)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/detailsClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/detailsClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(47): view('admin/client/detailsClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->detailsClient('2')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:25:59 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/detailsClient.php on line 7.
+ 1 APPPATH/Views/admin/client/detailsClient.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/detailsClient.php', 7)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/detailsClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/detailsClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(47): view('admin/client/detailsClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->detailsClient('2')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:26:51 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/updateClient.php on line 2.
+ 1 APPPATH/Views/admin/client/updateClient.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/updateClient.php', 2)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/updateClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/updateClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(78): view('admin/client/updateClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('3')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:26:55 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/detailsClient.php on line 7.
+ 1 APPPATH/Views/admin/client/detailsClient.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/detailsClient.php', 7)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/detailsClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/detailsClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(47): view('admin/client/detailsClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->detailsClient('3')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:27:00 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/detailsClient.php on line 7.
+ 1 APPPATH/Views/admin/client/detailsClient.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/detailsClient.php', 7)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/detailsClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/detailsClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(47): view('admin/client/detailsClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->detailsClient('3')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:27:06 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/detailsClient.php on line 7.
+ 1 APPPATH/Views/admin/client/detailsClient.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/detailsClient.php', 7)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/detailsClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/detailsClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(47): view('admin/client/detailsClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->detailsClient('3')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-01 19:27:11 --> Trying to access array offset on value of type null
+in APPPATH/Views/admin/client/updateClient.php on line 2.
+ 1 APPPATH/Views/admin/client/updateClient.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'APPPATH/Views/admin/client/updateClient.php', 2)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/updateClient.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('admin/client/updateClient', [], true)
+ 5 APPPATH/Controllers/Admin/Client.php(78): view('admin/client/updateClient', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Admin\Client->updateClient('3')
+ 7 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

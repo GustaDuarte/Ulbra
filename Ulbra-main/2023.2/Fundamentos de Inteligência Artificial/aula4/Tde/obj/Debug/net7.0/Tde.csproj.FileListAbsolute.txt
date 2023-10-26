@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\aula4\Tde\bin\Debug\net7.0\Tde.exe
+C:\Users\gusta\Desktop\aula4\Tde\bin\Debug\net7.0\Tde.deps.json
+C:\Users\gusta\Desktop\aula4\Tde\bin\Debug\net7.0\Tde.runtimeconfig.json
+C:\Users\gusta\Desktop\aula4\Tde\bin\Debug\net7.0\Tde.dll
+C:\Users\gusta\Desktop\aula4\Tde\bin\Debug\net7.0\Tde.pdb
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.AssemblyInfo.cs
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.dll
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\refint\Tde.dll
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.pdb
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\Tde.genruntimeconfig.cache
+C:\Users\gusta\Desktop\aula4\Tde\obj\Debug\net7.0\ref\Tde.dll

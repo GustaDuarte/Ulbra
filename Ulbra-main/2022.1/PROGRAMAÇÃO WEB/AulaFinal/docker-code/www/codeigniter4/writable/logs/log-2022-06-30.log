@@ -1,0 +1,139 @@
+CRITICAL - 2022-06-30 17:28:29 --> Undefined variable $result
+in APPPATH/Controllers/Client.php on line 29.
+ 1 APPPATH/Controllers/Client.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $result', 'APPPATH/Controllers/Client.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:29:22 --> Call to a member function fetch_assoc() on array
+in APPPATH/Controllers/Client.php on line 29.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:30:09 --> Call to a member function fetch_assoc() on string
+in APPPATH/Controllers/Client.php on line 29.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:41:44 --> Undefined variable $line
+in APPPATH/Controllers/Client.php on line 29.
+ 1 APPPATH/Controllers/Client.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $line', 'APPPATH/Controllers/Client.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:42:20 --> Undefined variable $arrayClients
+in APPPATH/Controllers/Client.php on line 29.
+ 1 APPPATH/Controllers/Client.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Controllers/Client.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:42:57 --> Undefined variable $arrayClients
+in APPPATH/Controllers/Client.php on line 29.
+ 1 APPPATH/Controllers/Client.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Controllers/Client.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:55:22 --> Undefined property: App\Controllers\Client::$ClientModel
+in APPPATH/Controllers/Client.php on line 24.
+ 1 APPPATH/Controllers/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Client::$ClientModel', 'APPPATH/Controllers/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:56:00 --> Undefined variable $result
+in APPPATH/Controllers/Client.php on line 26.
+ 1 APPPATH/Controllers/Client.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $result', 'APPPATH/Controllers/Client.php', 26)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:56:42 --> Undefined variable $clientModel
+in APPPATH/Controllers/Client.php on line 24.
+ 1 APPPATH/Controllers/Client.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clientModel', 'APPPATH/Controllers/Client.php', 24)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:56:56 --> Call to undefined method App\Models\ClientModel::fetch_assoc
+in SYSTEMPATH/Model.php on line 773.
+ 1 APPPATH/Controllers/Client.php(26): CodeIgniter\Model->__call('fetch_assoc', [])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 17:57:16 --> Call to undefined method App\Models\ClientModel::fetch_assoc
+in SYSTEMPATH/Model.php on line 773.
+ 1 APPPATH/Controllers/Client.php(26): CodeIgniter\Model->__call('fetch_assoc', [])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:10:54 --> Undefined variable $line
+in APPPATH/Controllers/Client.php on line 28.
+ 1 APPPATH/Controllers/Client.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $line', 'APPPATH/Controllers/Client.php', 28)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:11:18 --> Undefined variable $result
+in APPPATH/Controllers/Client.php on line 28.
+ 1 APPPATH/Controllers/Client.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $result', 'APPPATH/Controllers/Client.php', 28)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:11:41 --> Call to a member function fetch_assoc() on array
+in APPPATH/Controllers/Client.php on line 28.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:12:39 --> Call to a member function array() on array
+in APPPATH/Controllers/Client.php on line 28.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:12:40 --> Call to a member function array() on array
+in APPPATH/Controllers/Client.php on line 28.
+ 1 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 3 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:22:26 --> Call to undefined method App\Models\ClientModel::fetch_assoc
+in SYSTEMPATH/Model.php on line 773.
+ 1 APPPATH/Controllers/Client.php(29): CodeIgniter\Model->__call('fetch_assoc', [])
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 18:25:06 --> Undefined variable $line
+in APPPATH/Controllers/Client.php on line 29.
+ 1 APPPATH/Controllers/Client.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $line', 'APPPATH/Controllers/Client.php', 29)
+ 2 SYSTEMPATH/CodeIgniter.php(898): App\Controllers\Client->listClientsApi()
+ 3 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 4 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 19:24:30 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH/Controllers/Admin/Client.php on line 93.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Admin/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Admin\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-06-30 19:24:48 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH/Controllers/Admin/Client.php on line 89.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH/Controllers/Admin/Client.php')
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admin\\Client')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admin\\Client')
+ 4 SYSTEMPATH/CodeIgniter.php(848): class_exists('\\App\\Controllers\\Admin\\Client', true)
+ 5 SYSTEMPATH/CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()

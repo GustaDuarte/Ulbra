@@ -1,0 +1,4 @@
+Revisite o grupo que fez o trabalho de levantamento de requsitos da AP1 e faça:
+- o diagrama de casos de uso.
+- e as estórias de usuário.
+- apresentar na próxima aula.

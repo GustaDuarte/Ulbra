@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "647d32fb2ec8cd1833e0974c"
+  },
+  "visitaId": 1,
+  "detentoId": 1,
+  "visitanteId": 1,
+  "dataVisita": "2023-06-01",
+  "horaEntrada": "14:00",
+  "horaSaida": "15:00"
+},
+{
+  "_id": {
+    "$oid": "647d33012ec8cd1833e0974d"
+  },
+  "visitaId": 2,
+  "detentoId": 2,
+  "visitanteId": 2,
+  "dataVisita": "2023-05-23",
+  "horaEntrada": "17:00",
+  "horaSaida": "18:00"
+},
+{
+  "_id": {
+    "$oid": "647d33072ec8cd1833e0974e"
+  },
+  "visitaId": 3,
+  "detentoId": 3,
+  "visitanteId": 3,
+  "dataVisita": "2023-04-10",
+  "horaEntrada": "09:00",
+  "horaSaida": "10:00"
+}]

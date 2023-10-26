@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "647cdf96e4503b7ee0793c22"
+  },
+  "courseName": "Matemática",
+  "teacherName": "Professor Cassio",
+  "students": [
+    {
+      "firstName": "Gustavo",
+      "lastName": "Duarte"
+    },
+    {
+      "firstName": "Joao",
+      "lastName": "Silva"
+    }
+  ]
+}]
