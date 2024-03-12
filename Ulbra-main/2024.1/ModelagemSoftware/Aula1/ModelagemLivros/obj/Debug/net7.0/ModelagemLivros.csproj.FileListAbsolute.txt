@@ -1,0 +1,14 @@
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\bin\Debug\net7.0\ModelagemLivros.exe
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\bin\Debug\net7.0\ModelagemLivros.deps.json
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\bin\Debug\net7.0\ModelagemLivros.runtimeconfig.json
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\bin\Debug\net7.0\ModelagemLivros.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\bin\Debug\net7.0\ModelagemLivros.pdb
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.AssemblyInfo.cs
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\refint\ModelagemLivros.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.pdb
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ModelagemLivros.genruntimeconfig.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemLivros\obj\Debug\net7.0\ref\ModelagemLivros.dll

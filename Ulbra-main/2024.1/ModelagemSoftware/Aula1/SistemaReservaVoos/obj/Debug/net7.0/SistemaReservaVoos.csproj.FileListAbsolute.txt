@@ -1,0 +1,14 @@
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\bin\Debug\net7.0\SistemaReservaVoos.exe
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\bin\Debug\net7.0\SistemaReservaVoos.deps.json
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\bin\Debug\net7.0\SistemaReservaVoos.runtimeconfig.json
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\bin\Debug\net7.0\SistemaReservaVoos.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\bin\Debug\net7.0\SistemaReservaVoos.pdb
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.AssemblyInfo.cs
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\refint\SistemaReservaVoos.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.pdb
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\SistemaReservaVoos.genruntimeconfig.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\SistemaReservaVoos\obj\Debug\net7.0\ref\SistemaReservaVoos.dll

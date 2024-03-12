@@ -1,0 +1,14 @@
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\bin\Debug\net7.0\ModelagemPraia.exe
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\bin\Debug\net7.0\ModelagemPraia.deps.json
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\bin\Debug\net7.0\ModelagemPraia.runtimeconfig.json
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\bin\Debug\net7.0\ModelagemPraia.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\bin\Debug\net7.0\ModelagemPraia.pdb
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.AssemblyInfo.cs
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\refint\ModelagemPraia.dll
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.pdb
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ModelagemPraia.genruntimeconfig.cache
+C:\Users\gusta\Desktop\ModelagemSoftware\Aula1\ModelagemPraia\obj\Debug\net7.0\ref\ModelagemPraia.dll
