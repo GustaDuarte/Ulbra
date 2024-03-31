@@ -1,0 +1,22 @@
+// 2 - Crie um programa que verifique uma variável utilizando o WHEN 
+// traduza as seguintes cores em inglês para o portugues: blue, red, green, yellow
+
+fun main(args: Array<String>){
+    if (args.isNotEmpty()){
+        for (cor in args){
+            val TraducaoCor = when (cor) {
+                "blue" -> "azul"
+                "red" -> "vermelho"
+                "green" -> "verde"
+                "yellow" -> "amarelo"
+                else -> "Cor não reconhecida"
+            }
+
+            println("A cor $cor em português é: $TraducaoCor")
+        }
+    } else {
+        println("Nenhuma cor foi fornecida.")
+    }
+}
+
+

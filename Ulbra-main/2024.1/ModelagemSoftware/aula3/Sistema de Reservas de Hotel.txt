@@ -1,0 +1,35 @@
+Descrição
+
+Realizar Reserva de Hotel
+Ator: Hospede
+
+neste caso de uso um hóspede  pode pesquisar hotéis disponíveis, visualize quartos, realize uma reserva, cancele uma reserva e visualize os serviços oferecidos pelo hotel.
+
+O hóspede pesquisa hotéis disponíveis, o sistema exibe os hotéis disponíveis. O hóspede seleciona um hotel.
+O sistema exibe os quartos disponíveis no hotel selecionado.
+O hóspede seleciona um quarto, exibe informações detalhadas sobre o quarto e os serviços oferecidos pelo hotel.
+O hóspede escolhe as datas de check-in e check-out, o sistema calcula o preço total da reserva.
+O hóspede confirma a reserva e recebe a confirmação, envia um e-mail para o hóspede.
+
+Gestão de Check-in/Check-out
+Ator Principal: Recepcionista
+
+O recepcionista gerencia o check-in e check-out dos hóspedes, registra informações pertinentes e gera faturas.
+
+O recepcionista recebe um hóspede para check-in, o sistema registra o check-in, atribui um número de quarto e atualiza o status do quarto para ocupado.
+O recepcionista registra as informações do hóspede como nome, documento de identidade... O hóspede faz o pagamento adiantado, se preferir(opcional).
+O recepcionista emite a chave do quarto para o hóspede.
+Durante a estadia, o recepcionista pode atualizar informações sobre o hóspede como adição de serviços extras, alterações de datas...
+No check-out, o recepcionista recebe o quarto de volta e registra o check-out, o sistema atualiza o status do quarto para disponível.
+O recepcionista gera a fatura para o hóspede, que vai fazer o pagamento final e recebe o recibo.
+
+Atualizar Informações do Hotel
+Ator: Recepcionista
+
+O recepcionista pode atualizar informações do hotel, como disponibilidade de quartos, preços, serviços oferecidos...
+
+O recepcionista acessa a área de administração do sistema, exibe as opções de atualização de informações.
+O recepcionista seleciona o tipo de informação a ser atualizada (disponibilidade de quartos, preços, serviços... 
+O recepcionista atualiza as informações conforme necessário.
+O sistema confirma as alterações e atualiza os dados do hotel.
+O sistema notifica os hóspedes afetados pelas alterações, se necessário.

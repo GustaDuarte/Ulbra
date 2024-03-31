@@ -1,0 +1,42 @@
+// 1 - Escreva um programa em Kotlin que recebe uma lista de 5 números inteiros como entrada e calcule a média desses números. 
+// Certifique-se de lidar com casos em que a lista pode estar vazia.
+
+
+class Media {
+    var listaDeInteiros = mutableListOf<Int>()
+    
+    //função pra add num
+    fun adicionarNumero(numero: Int) {
+        listaDeInteiros.add(numero)
+    }
+    
+    //função pra calc media
+    fun calcularMedia(): Double {
+        return if (listaDeInteiros.isNotEmpty()) {
+            var totalValores = 0.0
+            for (numero in listaDeInteiros) totalValores += numero
+            totalValores / listaDeInteiros.size
+        } else {
+            Double.NaN // indica que a lista esta vazia para recebe o tratamento na main
+        }
+    }
+}
+
+fun main(args: Array<String>) {
+    val calc = Media()
+
+    if (args.isNotEmpty()) {
+        for (arg in args) {
+            if (arg.isNotEmpty()) { //se a string não é vazia entao ->
+                calc.adicionarNumero(arg.toInt())
+            }
+        }
+
+        val media = calc.calcularMedia()
+        if (media.isNaN()) {
+            println("Lista vazia!")
+        } else {
+            println("A média dos números é: $media")
+        }
+    }
+}
