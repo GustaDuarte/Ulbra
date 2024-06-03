@@ -1,0 +1,12 @@
+DMs
+
+1. Visibilidade do status do sistema - indica q estou na aba de Mensagens
+2. Correspondência entre o sistema e o mundo real - a ação da conversa 
+3. Controle e liberdade do usuário - pode arquivar ou apagar a conversa 
+4. Consistência e padronização - as mensagens seguem uma ordem de data e hora para exibição
+5. Prevenção de erros - oferece recursos de privacidade e segurança robustos para as DMs, permitindo que os usuários controlem quem pode enviar mensagens diretas para eles e os usuários têm a capacidade de bloquear ou denunciar usuários que enviam mensagens indesejadas
+6. Reconhecimento ao invés de memória - Caixa de Entrada Organizada e Identificação de Remetente
+7. Eficiência e flexibilidade de uso - Flexibilidade na Interatividade: Permitir que os usuários respondam diretamente às mensagens diretas, sem a necessidade de abrir uma nova tela ou janela, oferece uma experiência de usuário mais fluida e flexível.
+8. Estética e design minimalista - apresenta as mensagens em ordem e claras com pré visualização
+9. Recuperação diante de erros - Salvamento automático de mensagens não enviadas
+10. Ajuda e documentação - Ausência de tutoriais integrados, artigos de segurança não acessíveis diretamente.

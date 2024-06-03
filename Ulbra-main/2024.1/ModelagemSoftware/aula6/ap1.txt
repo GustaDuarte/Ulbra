@@ -1,0 +1,19 @@
+1 - O diagrama de classe parece estar se referindo a um sistema de vendas online ou um sistema de gestão de pedidos e pagamentos.
+
+2 - Explicar as cardinalidades e os relacionamentos de parte:
+
+Pagamento | Pedido: A cardinalidade indica que um pagamento pode estar associado a apenas um pedido (1) e um pedido pode ter apenas um pagamento (1).
+Pedido | Cliente: Um pedido é associado a um único cliente (1), mas um cliente pode ter vários pedidos (*).
+Cliente | Endereco: Cada cliente tem um e apenas um endereço para entrega (1), e o endereço está associado a apenas um cliente (1).
+Pedido | Item: Um pedido pode ter vários itens (*), mas cada item pertence a apenas um pedido (1).
+Item | Produto: Cada item está associado a apenas um produto (1), mas um produto pode estar presente em vários itens (*).
+
+
+3 - Na classe Pedido, os métodos mapeados são:
++salvar() : Pedido: Este método tem a função de salvar um novo pedido no sistema. Ele provavelmente recebe os dados do pedido como entrada e os armazena no banco de dados ou em outro local de armazenamento. O tipo de retorno é Pedido, o que indica que o método retorna um objeto do tipo Pedido que foi salvo com sucesso.
+
++alterar() : Pedido: Este método permite alterar um pedido existente no sistema. Ele provavelmente recebe o ID do pedido que será alterado e os novos dados do pedido como entrada. Após a alteração, o método retorna o objeto Pedido modificado. O tipo de retorno também é Pedido.
+
++excluir(): char: Este método tem a função de excluir um pedido do sistema. Ele provavelmente recebe o ID do pedido que será excluído como entrada e executa a operação de exclusão no banco de dados ou em outro local de armazenamento. O tipo de retorno é char, o que sugere que o método retorna um caractere indicando o status da exclusão, por exemplo, 'S' para sucess ou 'E' para error.
+
++calculaValorTotal(): float: Este método calcula o valor total do pedido. Ele provavelmente percorre todos os itens do pedido, multiplica a quantidade de cada item pelo seu valor e soma os resultados para obter o valor total. O tipo de retorno é float, indicando que o método retorna o valor total do pedido.
