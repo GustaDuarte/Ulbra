@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         navController = findNavController(R.id.nav_host_fragment)
         appBarConfiguration = AppBarConfiguration(setOf(
-            R.id.homeFragment, R.id.createProductFragment //destinos principais da barra de ação
+            R.id.homeFragment, R.id.addFragment //destinos principais da barra de ação
         ))
 
         //configurar a ActionBar e BottomNavigationView com NavController
@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
         navController.addOnDestinationChangedListener { _, destination, _ ->
             when (destination.id) {
                 R.id.homeFragment -> toolbar.title = "Home"
-                R.id.createProductFragment -> toolbar.title = "Create Product"
+                R.id.addFragment -> toolbar.title = "Create Product"
                 else -> toolbar.title = destination.label
             }
         }

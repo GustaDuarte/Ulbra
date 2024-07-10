@@ -1,0 +1,22 @@
+Netflix
+
+Proximidade:
+Filmes e séries de uma mesma categoria são agrupados em filas horizontais, indicando que pertencem ao mesmo gênero ou tema.
+
+Similaridade:
+As capas dos filmes e séries são apresentadas em um formato uniforme, facilitando a visualização e comparação.
+
+Continuidade:
+A interface permite uma navegação contínua ao rolar a tela para baixo, com linhas horizontais de conteúdo que incentivam a exploração adicional.
+
+Fechamento:
+As capas parcialmente cortadas nas bordas da tela são completadas pelo cérebro do usuário, sugerindo uma continuidade do catálogo.
+
+Figura-fundo:
+As capas coloridas dos filmes se destacam contra o fundo escuro da interface, atraindo a atenção do usuário.
+
+Simetria:
+As seções e filas de conteúdo são organizadas de maneira simétrica, criando um senso de ordem e equilíbrio visual.
+
+Destino Comum:
+Trailers e animações de destaque em movimento atraem a atenção do usuário, indicando que são parte de uma apresentação contínua ou de um fluxo de informação.

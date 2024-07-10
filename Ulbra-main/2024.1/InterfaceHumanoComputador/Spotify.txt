@@ -1,0 +1,29 @@
+Spotify
+
+1. Proximidade:
+Playlists e Álbuns: Músicas dentro de uma playlist ou álbum são agrupadas próximas umas das outras, indicando que pertencem ao mesmo grupo.
+
+2. Similaridade:
+Ícones e Botões: Ícones e botões de controle (play, pausa, próximo) têm designs semelhantes, ajudando os usuários a reconhecer rapidamente suas funções.
+Capa dos Álbuns: As capas dos álbuns e playlists têm formatos uniformes, facilitando a identificação de diferentes tipos de conteúdo.
+
+3. Continuidade:
+Linha do Tempo de Reprodução: A barra de progresso da música atual é uma linha contínua que os usuários podem seguir visualmente para ver o progresso da reprodução.
+Listas de Reprodução: A navegação por listas de músicas é contínua, permitindo rolar de cima para baixo sem interrupções.
+
+4. Fechamento:
+Capas de Álbuns e Playlists: Mesmo que partes das capas estejam cortadas, o cérebro tende a completar a imagem, ajudando na identificação rápida.
+Controles de Reprodução: Ícones de reprodução, como o play e pausa, são reconhecidos como completos, mesmo que estejam parcialmente ocultos por outro elemento.
+
+5. Figura-fundo:
+Destaque de Conteúdo: As capas dos álbuns e playlists são destacadas contra um fundo escuro, ajudando a focar a atenção nos conteúdos principais.
+Modo de Reprodução: Quando uma música está tocando, a interface escurece o fundo e destaca os controles de reprodução e a capa do álbum, criando um claro contraste.
+
+6. Simetria:
+Interface de Usuário: O layout da interface é organizado de maneira simétrica, com elementos balanceados em ambos os lados da tela, proporcionando uma experiência visualmente agradável.
+Listas de Reprodução: As listas de músicas e álbuns são apresentadas de forma alinhada, criando uma sensação de ordem e equilíbrio.
+
+7. Destino Comum:
+Animações de Reprodução: Elementos animados, como o ícone de reprodução, se movem de maneira sincronizada, indicando que fazem parte da mesma ação ou fluxo de interação.
+
+Listas Dinâmicas: Músicas em uma playlist sendo reproduzidas têm animações que mostram movimento, indicando que pertencem ao mesmo grupo ou sequência de reprodução.

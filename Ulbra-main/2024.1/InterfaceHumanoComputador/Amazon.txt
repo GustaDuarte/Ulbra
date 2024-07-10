@@ -1,0 +1,22 @@
+Amazon
+
+Proximidade:
+Produtos semelhantes ou relacionados são agrupados juntos em seções, facilitando a navegação e comparação.
+
+Similaridade:
+Botões de ação (como “Adicionar ao carrinho” e “Comprar agora”) são estilizados de maneira consistente, tornando suas funções claras.
+
+Continuidade:
+As listas de produtos são dispostas de maneira linear, permitindo uma navegação contínua ao rolar a página.
+
+Fechamento:
+Imagens de produtos parcialmente ocultas ainda permitem ao usuário perceber a forma completa do produto.
+
+Figura-fundo:
+Produtos destacados são colocados contra um fundo claro e neutro, ajudando a focar a atenção no item.
+
+Simetria:
+A página de listagem de produtos e as páginas de produtos individuais usam layouts simétricos, com seções bem balanceadas.
+
+Destino Comum:
+Promoções e banners animados guiam o olhar do usuário na direção dos produtos em destaque, indicando uma sequência de itens promocionais.

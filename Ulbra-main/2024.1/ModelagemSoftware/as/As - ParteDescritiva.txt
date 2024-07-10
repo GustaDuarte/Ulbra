@@ -1,0 +1,40 @@
+Diagrama de Classe
+O cliente pode possuir um ou muitos carros, mas cada carro pertence a um único cliente.
+Um carro pode estar associado a uma ou muitas reservas, mas cada reserva está associada a um único carro.
+O estabelecimento pode aprovar/rejeitar muitas reservas, mas cada reserva é aprovada/rejeitada por um único estabelecimento.
+
+Casos de Uso
+1- Cadastro e autenticação:
+Um cliente quer realizar um cadastro, pra isso ele precisa fornecer nome, telefone e email.
+O cliente autentifica o cadastro confirmando o email. Após confirmar a autenticação o cliente é cadastrado.
+
+2- Reserva de horário:
+Um cliente seleciona um horário disponível para lavagem do carro.
+Fornece os detalhes do carro caso desejar.
+Quando for confirmada a reserva o cliente recebe a confirmação por email.
+
+Diagrama de Atividade
+Inicio
+1. inicia a reserva
+2. verifica o horário da reserva 
+3. seleciona o horário obrigatoriamente
+4. caso deseje fornece detalhes do carro
+5. é confirmada a reserva 
+6. é enviado um email de confirmação da reserva ao cliente
+Fim.
+
+Diagramas de Sequência
+1- Aprovação e confirmação da reserva - Interação entre o estabelecimento, o sistema e o cliente durante o processo de aprovação e confirmação de uma reserva:
+1. O estabelecimento vai visualizar as reservas pendentes
+1.1. O sistema retorna a exibição das reservas pendentes ao estabelecimento 
+2. O estabelecimento aprova a reserva ao sistema
+2.1. É atualizado o status da reserva que foi aprovada
+3. Vai ser confirmada a reserva pelo sistema que no 3.1 vai enviar um email de notificação ao cliente.
+
+2- Cadastro do cliente - Interação do sistema e do cliente ao realizar um cadastro do mesmo:
+1. Cliente quer realizar um cadastro no sistema que 1.1 vai validar os dados e 1.1.1 salvar o cliente no banco de dados.
+2. Vai ser enviado um email de confirmação para o cadastro e após 2.1 o email ser verificado, vai de fato autentificar o usuário.
+3. Vai confirmar o cadastro do usuário, talvez com alguma mensagem no sistema de sucess.
+
+
+

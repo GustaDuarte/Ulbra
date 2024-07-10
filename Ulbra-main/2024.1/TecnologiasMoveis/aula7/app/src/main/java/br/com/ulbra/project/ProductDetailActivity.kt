@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import br.com.ulbra.project.data.models.Product
 import com.bumptech.glide.Glide
 
 class ProductDetailActivity : AppCompatActivity() {

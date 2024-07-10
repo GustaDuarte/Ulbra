@@ -7,30 +7,30 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="br.com.ulbra.project.HomeFragment"
+        android:name="br.com.ulbra.project.presentation.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" >
         <action
-            android:id="@+id/action_homeFragment_to_createProductFragment2"
-            app:destination="@id/createProductFragment" />
-        <action
             android:id="@+id/action_homeFragment_to_productDetailActivity"
             app:destination="@id/productDetailActivity" />
+        <action
+            android:id="@+id/action_homeFragment_to_addFragment"
+            app:destination="@id/addFragment" />
     </fragment>
 
-    <fragment
-        android:id="@+id/createProductFragment"
-        android:name="br.com.ulbra.project.CreateProductFragment"
-        android:label="fragment_create_product"
-        tools:layout="@layout/fragment_create_product" >
-        <action
-            android:id="@+id/action_createProductFragment_to_homeFragment2"
-            app:destination="@id/homeFragment" />
-    </fragment>
     <activity
         android:id="@+id/productDetailActivity"
         android:name="br.com.ulbra.project.ProductDetailActivity"
         android:label="activity_product_detail"
         tools:layout="@layout/activity_product_detail" />
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="br.com.ulbra.project.presentation.fragments.AddFragment"
+        android:label="fragment_add"
+        tools:layout="@layout/fragment_add" >
+        <action
+            android:id="@+id/action_addFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+    </fragment>
 
 </navigation>
